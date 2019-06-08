@@ -1,4 +1,4 @@
-![](https://cvlassets.nyc3.digitaloceanspaces.com/listeningproject-2.png)
+![](https://cvlassets.nyc3.digitaloceanspaces.com/listeningproject.png)
 ---
 # PPP Weekly Status Check-Ins
 + Week Two (2) Jun. 11, 2019
